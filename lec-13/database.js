@@ -1,8 +1,8 @@
 const { count } = require("console");
 const { MongoClient, Collection } = require("mongodb");
 
-const url =
-  "mongodb+srv://moaaz:KVAGCR2009@namastenode.bo1jq.mongodb.net/?retryWrites=true&w=majority&appName=NamasteNode"; //this connection string will get the data from the dtabase managed by the mongoDB website/server.
+const url = "get this url form my personal note file in local machine";
+  
 
 const client = new MongoClient(url);
 
